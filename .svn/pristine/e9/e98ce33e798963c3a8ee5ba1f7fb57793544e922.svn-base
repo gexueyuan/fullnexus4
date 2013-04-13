@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/tabPanel"
+        android:layout_width="300dp"
+        android:layout_height="15dp"
+        android:layout_gravity="center"
+        android:src="@drawable/drag_horizontal" />
+
+    <com.leoly.fullnexus4.views.ExtraHorizontalScrollView
+        android:id="@+id/extraScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/shape"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/btnsLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </com.leoly.fullnexus4.views.ExtraHorizontalScrollView>
+
+</LinearLayout>

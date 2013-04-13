@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FullNexus4</string>
+    <string name="keyServiceStarted">按键服务已经启动</string>
+    <string name="backKey">返回键</string>
+    <string name="homeKey">HOME键</string>
+    <string name="appsKey">程序键</string>
+    <string name="menuKey">菜单键</string>
+    <string name="canNotRunApp">无法运行该程序！</string>
+    <string name="buttomLayout">下方</string>
+    <string name="leftLayout">左边</string>
+    <string name="rightLayout">右边</string>
+    <string name="blackColor">黑色</string>
+    <string name="redColor">红色</string>
+    <string name="greenColor">绿色</string>
+    <string name="blueColor">蓝色</string>
+    <string name="whiteColor">白色</string>
+    <string name="yellowColor">黄色</string>
+    <string name="grayColor">灰色</string>
+    <string name="lightBlueColor">亮蓝色</string>
+    <string name="fullScreenStarted">全屏服务已经开启</string>
+    <string name="fullScreenStopted">全屏服务已经停止</string>
+    <string name="keyServiceStopted">按键服务已经停止</string>
+    <string name="selectApps">选择程序：</string>
+    <string name="openFullscreen">启用全屏服务</string>
+    <string name="openKeyService">启用按键服务</string>
+    <string name="customKeys">自定义按键</string>
+    <string name="keyAutoHideTime">按键自动隐藏时间:</string>
+    <string name="second">秒</string>
+    <string name="keyLocation">按键位置：</string>
+    <string name="keyAreaHiehgt">按键区高（宽）度：</string>
+    <string name="buttonSpace">按钮间隔：</string>
+    <string name="keyAreaAlpha">按键区透明度：</string>
+    <string name="keyAreaBackground">按键区背景色：</string>
+    <string name="saveSetting">保存设置</string>
+    <string name="restartKeyService">重启按键服务</string>
+    <string name="changeLog">更新日志</string>
+    <string name="appAlert">特别提醒：本程序由个人编写制作，本人不承担使用本程序带来的任何后果！\n使用本程序的手机必需获取ROOT权限，安装BusyBox，否则无法保证程序能够正确运行！\n本程序基于Google Nexus 4（Android 4.0 API）开发，所以，系统版本需要在4.0以上才能使用！\n感谢您的使用与支持，联系方式：\nGmail: leoly003@gmail.com</string>
+    <string name="serviceSwitcher">服务开关</string>
+    <string name="keySettin">按键设置</string>
+    <string name="isNeedVibrator">开启震动反馈</string>
+    <string name="stopVibrator">停止震动反馈</string>
+    <string name="powerKey">电源键</string>
+    <string name="volumUpKey">音量增</string>
+    <string name="volumnDown">音量减</string>
+    <string name="searchKey">搜索鍵</string>
+    <string name="hideKey">隐藏键</string>
+    <string name="moreKey">其它键</string>
+    <string name="nosetmorekey">没有设置更多的按键</string>
+
+</resources>
